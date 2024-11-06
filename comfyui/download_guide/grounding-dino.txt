@@ -1,0 +1,5 @@
+H-grounding-dino,grounding-dino
+groundingdino_swinb_cogcoor.pth,groundingdino_swinb_cogcoor.pth
+groundingdino_swint_ogc.pth,groundingdino_swint_ogc.pth
+GroundingDINO_SwinB.cfg.py,GroundingDINO_SwinB.cfg.py
+GroundingDINO_SwinT_OGC.cfg.py,GroundingDINO_SwinT_OGC.cfg.py

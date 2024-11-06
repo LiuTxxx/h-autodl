@@ -1,0 +1,2 @@
+H-SDXL-checkpoints,checkpoints
+sdxl/LEOSAM_HelloWorld_SDXL_v7.0.safetensors,LEOSAM_HelloWorld_SDXL_v7.0.safetensors

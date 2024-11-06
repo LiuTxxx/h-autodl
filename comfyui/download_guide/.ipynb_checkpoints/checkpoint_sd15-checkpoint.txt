@@ -1,0 +1,2 @@
+H-SD15-checkpoints,checkpoints
+sd15/majicmixRealistic_v7.safetensors,majicmixRealistic_v7.safetensors

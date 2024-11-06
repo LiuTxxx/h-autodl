@@ -1,0 +1,3 @@
+H-instantID,.
+controlnet/instantid/diffusion_pytorch_model.safetensors,diffusion_pytorch_model.safetensors
+instantid/ip-adapter.bin,ip-adapter.bin

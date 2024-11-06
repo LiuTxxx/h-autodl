@@ -1,0 +1,4 @@
+H-ICLight,unet
+iclight/iclight_sd15_fc.safetensors,iclight_sd15_fc.safetensors
+iclight/iclight_sd15_fbc.safetensors,iclight_sd15_fbc.safetensors
+iclight/iclight_sd15_fcon.safetensors,iclight_sd15_fcon.safetensors

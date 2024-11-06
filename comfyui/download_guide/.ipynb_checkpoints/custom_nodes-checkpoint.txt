@@ -1,0 +1,12 @@
+H-custom_nodes,../custom_nodes
+comfyui_controlnet_aux/ckpts/hr16/DWPose-TorchScript-BatchSize5/dw-ll_ucoco_384_bs5.torchscript.pt,dw-ll_ucoco_384_bs5.torchscript.pt
+comfyui_controlnet_aux/ckpts/lllyasviel/Annotators/body_pose_model.pth,body_pose_model.pth
+comfyui_controlnet_aux/ckpts/lllyasviel/Annotators/hand_pose_model.pth,hand_pose_model.pth
+comfyui_controlnet_aux/ckpts/lllyasviel/Annotators/facenet.pth,facenet.pth
+comfyui_controlnet_aux/ckpts/lllyasviel/Annotators/ControlNetHED.pth,ControlNetHED.pth
+comfyui_controlnet_aux/ckpts/lllyasviel/Annotators/ZoeD_M12_N.pt,ZoeD_M12_N.pt
+comfyui_controlnet_aux/ckpts/lllyasviel/Annotators/latest_net_G.pth,latest_net_G.pth
+comfyui_controlnet_aux/ckpts/lllyasviel/Annotators/res101.pth,res101.pth
+comfyui_controlnet_aux/ckpts/yzd-v/DWPose/yolox_l.onnx,yolox_l.onnx
+ComfyUI-WD14-Tagger/models/wd-v1-4-moat-tagger-v2.onnx,wd-v1-4-moat-tagger-v2.onnx
+ComfyUI-WD14-Tagger/models/wd-v1-4-convnext-tagger-v2.onnx,wd-v1-4-convnext-tagger-v2.onnx

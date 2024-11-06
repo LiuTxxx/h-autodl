@@ -1,0 +1,3 @@
+H-vae,vae
+vae-ft-mse-840000-ema-pruned.safetensors,vae-ft-mse-840000-ema-pruned.safetensors
+sdxl_vae.safetensors,sdxl_vae.safetensors

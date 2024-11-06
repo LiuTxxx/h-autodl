@@ -1,0 +1,6 @@
+H-upscale_models,upscale_models
+4x_NMKD-Superscale-SP_178000_G.pth,4x_NMKD-Superscale-SP_178000_G.pth
+4x-ESRGAN.pth,4x-ESRGAN.pth
+RealESRGAN_x4plus.pth,RealESRGAN_x4plus.pth
+1x_DeBLR.pth,1x_DeBLR.pth
+4x-UltraSharp.pth,4x-UltraSharp.pth

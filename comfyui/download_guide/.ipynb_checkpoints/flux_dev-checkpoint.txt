@@ -1,0 +1,6 @@
+H-Flux,.
+unet/flux/flux1-dev.safetensors,flux1-dev.safetensors
+clip/flux/clip_l.safetensors,clip_l.safetensors
+clip/flux/t5xxl_fp16.safetensors,t5xxl_fp16.safetensors
+vae/flux/ae.safetensors,ae.safetensors
+loras/flux/flux_turbo_alpha.safetensors,flux_turbo_alpha.safetensors

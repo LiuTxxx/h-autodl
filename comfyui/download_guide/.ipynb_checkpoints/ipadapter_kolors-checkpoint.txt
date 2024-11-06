@@ -1,0 +1,4 @@
+H-IPAdapter,.
+clip_vision/clip-vit-large-patch14-336.bin,clip-vit-large-patch14-336.bin
+ipadapter/Kolors-IP-Adapter-Plus.bin,Kolors-IP-Adapter-Plus.bin
+ipadapter/Kolors-IP-Adapter-FaceID-Plus.bin,Kolors-IP-Adapter-FaceID-Plus.bin

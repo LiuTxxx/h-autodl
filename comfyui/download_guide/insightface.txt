@@ -1,0 +1,12 @@
+H-insightface,insightface
+inswapper_128.onnx,inswapper_128.onnx
+models/antelopev2/1k3d68.onnx,1k3d68.onnx
+models/antelopev2/2d106det.onnx,2d106det.onnx
+models/antelopev2/genderage.onnx,genderage.onnx
+models/antelopev2/glintr100.onnx,glintr100.onnx
+models/antelopev2/scrfd_10g_bnkps.onnx,scrfd_10g_bnkps.onnx
+models/buffalo_l/1k3d68.onnx,1k3d68.onnx
+models/buffalo_l/2d106det.onnx,2d106det.onnx
+models/buffalo_l/genderage.onnx,genderage.onnx
+models/buffalo_l/det_10g.onnx,det_10g.onnx
+models/buffalo_l/w600k_r50.onnx,w600k_r50.onnx

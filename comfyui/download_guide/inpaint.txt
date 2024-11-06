@@ -1,0 +1,7 @@
+H-inpaint,inpaint
+brushnet/random_mask_sd15.safetensors,random_mask_sd15.safetensors
+brushnet/segmentation_mask_sd15.safetensors,segmentation_mask_sd15.safetensors
+brushnet_xl/random_mask_sdxl.safetensors,random_mask_sdxl.safetensors
+brushnet_xl/segmentation_mask_sdxl_v1.safetensors,segmentation_mask_sdxl_v1.safetensors
+powerpaint/powerpaint_v2.safetensors,powerpaint_v2.safetensors
+powerpaint/pytorch_model.bin,pytorch_model.bin
